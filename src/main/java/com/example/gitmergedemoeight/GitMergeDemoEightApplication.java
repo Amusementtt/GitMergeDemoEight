@@ -10,5 +10,8 @@ public class GitMergeDemoEightApplication {
         SpringApplication.run(GitMergeDemoEightApplication.class, args);
         System.out.println("111");
     }
+    public void hello(){
+
+    }
 
 }
