@@ -13,6 +13,7 @@ public class GitMergeDemoEightApplication {
     public void hello(){
         System.out.println("111");
         System.out.println("222");
+        System.out.println("5555");
         System.out.println("4444");
     }
     public void helloOne(){
