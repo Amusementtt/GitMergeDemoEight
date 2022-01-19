@@ -35,6 +35,7 @@ public class GitMergeDemoEightApplication {
     public void helloThree(){
 
     }
+    private String field;
     public void helloFive(){
 
     }
