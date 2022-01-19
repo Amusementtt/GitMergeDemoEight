@@ -49,7 +49,7 @@ public class GitMergeDemoEightApplication {
         System.out.println("444");
     }
     public void helloEight(){
-
+        System.out.println("666");
     }
 
 }
