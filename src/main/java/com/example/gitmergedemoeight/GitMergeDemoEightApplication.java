@@ -28,6 +28,8 @@ public class GitMergeDemoEightApplication {
         System.out.println("333");
     }
     public void helloTwo(){
+
+    }
     private String hello;
     public void helloThree(){
 
