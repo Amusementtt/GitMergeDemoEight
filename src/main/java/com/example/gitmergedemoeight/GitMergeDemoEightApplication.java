@@ -42,5 +42,8 @@ public class GitMergeDemoEightApplication {
     public void helloFive(){
         System.out.println("111");
     }
+    public void helloSix(){
+
+    }
 
 }
