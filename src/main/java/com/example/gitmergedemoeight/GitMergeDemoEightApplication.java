@@ -38,5 +38,8 @@ public class GitMergeDemoEightApplication {
     public void helloFour(){
 
     }
+    public void helloFive(){
+
+    }
 
 }
