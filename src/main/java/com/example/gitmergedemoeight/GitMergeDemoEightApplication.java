@@ -52,7 +52,7 @@ public class GitMergeDemoEightApplication {
         System.out.println("666");
     }
     public void helloNine(){
-
+        System.out.println("777");
     }
 
 }
