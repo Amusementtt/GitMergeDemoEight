@@ -67,5 +67,7 @@ public class GitMergeDemoEightApplication {
         System.out.println("10011");
         System.out.println("55555");
     }
-
+    public void helloFourteen(){
+        System.out.println("8888");
+    }
 }
